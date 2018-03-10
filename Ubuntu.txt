@@ -1,0 +1,12 @@
+<html>
+	<head>
+	 <h2 align="center"> Ubuntu </h2>
+	  <title> Ubuntu </title>
+	</head>
+	<body>
+	 <p> 
+
+	 </p>
+	 <img src="debian.jpg" hspace="300">
+	</body>
+</html>
